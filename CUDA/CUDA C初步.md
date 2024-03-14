@@ -1,4 +1,3 @@
-
 ## 3. Juilia集合
 目标:
 - [ ] Julia集与Mandebrot集 python版本
