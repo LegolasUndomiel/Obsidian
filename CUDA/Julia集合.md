@@ -1,6 +1,6 @@
 ## Schedule
 - [ ] Julia集与Mandebrot集 python版本
-- [ ] C/C++版本 (初步学校OpenCV)
+- [ ] C/C++版本 (初步学习OpenCV)
 - [ ] CUDA版本
 - [ ] PyQt做界面(学习Python和C/C++联动)
 - [ ] 交互 输入参数改变图像
@@ -17,3 +17,6 @@
 - [C++画Julia集合](https://www.cnblogs.com/easymind223/archive/2012/07/05/2578231.html)
 - [探索Mandelbrot集的生成：C、C++和CUDA实现的比较分析](https://zhuanlan.zhihu.com/p/669769829)
 - [ubuntu c++ std::thread线程的使用及join,pthread_create的问题](https://blog.csdn.net/HelloJinYe/article/details/108618890)
+- [Mandelbrot Set in C/C++ Using Graphics](https://www.geeksforgeeks.org/mandlebrot-set-in-c-c-using-graphics/)
+- [Mandelbrot集绘制](https://www.cnblogs.com/cknightx/p/6840365.html)
+- 
