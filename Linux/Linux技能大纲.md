@@ -20,3 +20,6 @@
 - [Fish vs. Zsh vs. Bash以及为什么要改用Fish](https://zhuanlan.zhihu.com/p/152460193)
 ## makefile
 ## cmake
+
+## Ubuntu安装
+[kde下安装搜狗输入法](https://zhuanlan.zhihu.com/p/278270270)
