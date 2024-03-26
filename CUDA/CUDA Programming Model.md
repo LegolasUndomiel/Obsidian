@@ -1,5 +1,8 @@
-> CUDA C编程权威指南
-## CUDA编程模型概述
+> Professional CUDA C Programming
+## Introducing the CUDA Programming Model
+
+> Programming models present an abstraction of computer architectures that act as a bridge between an application and its implementation on available hardware. 
+
 CUDA功能
 - 通过层次结构组织线程
 - 通过层次结构访问内存
