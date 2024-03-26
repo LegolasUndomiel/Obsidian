@@ -3,7 +3,8 @@
 ```cpp
 #pragma omp 指令 [子句[子句]…]
 ```
-## 
+## 常用命令
+
 
 ## 参考文献
 - [OpenMP(1)：parallel，for，sections指令的用法](https://blog.csdn.net/qq_40765537/article/details/105962912)
