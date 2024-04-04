@@ -1,5 +1,5 @@
 > Professional CUDA C Programming
-## Introducing the CUDA Programming Model
+## 1 Introducing the CUDA Programming Model
 
 > Programming models present an abstraction of computer architectures that act as a bridge between an application and its implementation on available hardware. 
 
@@ -12,7 +12,7 @@ CUDA功能
 - 逻辑层：如何组织并发线程
 - 硬件层：线程如何映射到核心
 
-### CUDA编程结构
+### 1.1 CUDA编程结构
 - 主机：CPU及主机内存
 - 设备：GPU及设备内存
 

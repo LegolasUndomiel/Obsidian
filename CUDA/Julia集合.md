@@ -1,4 +1,4 @@
-## Schedule
+## 1 Schedule
 - [ ] Julia集与Mandebrot集 python版本
 - [ ] C/C++版本 (初步学习OpenCV)
 - [ ] CUDA版本
@@ -6,10 +6,10 @@
 - [ ] 交互 输入参数改变图像
 - [ ] 循环动画等功能
 
-## Theory
+## 2 Theory
 
 
-## References
+## 3 References
 - [关于Matplotlib-cpp总结](https://zhuanlan.zhihu.com/p/496383666)
 - [python绘制动态Julia集](https://blog.csdn.net/m0_37816922/article/details/121880410)
 - [Python绘制Mandelbrot Set与Julia Set](https://zhuanlan.zhihu.com/p/32788146)
