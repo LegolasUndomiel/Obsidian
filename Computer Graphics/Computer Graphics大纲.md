@@ -8,7 +8,7 @@
 1. 搜集图形学岗位发布的资料
 2. python脚本对文本进行分析, 汇总岗位职责, 需要的技能点
 3. 制定学习路线
-4. 和CUDA的结合 [[CUDA大纲#1. 贴图]]
+4. 和CUDA的结合 [[CUDA大纲#4.1 Julia Set]][[CUDA大纲#4.2 Ray Tracing]]
 
 
 ### 2.2 游戏岗位
@@ -20,4 +20,5 @@
 
 ## 3 Introduction
 
-## 4 
+## 4 OpenGL
+[[OpenGL大纲]]

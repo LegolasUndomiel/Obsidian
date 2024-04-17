@@ -1,6 +1,6 @@
 ## 1 Schedule
 - [ ] Julia集与Mandebrot集 python版本
-- [ ] C/C++版本 (初步学习OpenCV)
+- [ ] C/C++版本 (初步学习OpenGL)[[OpenGL大纲]]
 - [ ] CUDA版本
 - [ ] PyQt做界面(学习Python和C/C++联动)
 - [ ] 交互 输入参数改变图像

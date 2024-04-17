@@ -1,4 +1,4 @@
-## 1 CUDA基础
+## 1 CUDA介绍
 [[Introduction to CUDA]]
 [[基于CUDA的异构并行计算]]
 
@@ -9,31 +9,44 @@
 - [ ] 确定任务的 ***串行*** 和 ***并行***
 - [ ] 编写CUDA程序实现并行计算
 
-## 2 CUDA C
+## 2 CUDA基础知识
+### 2.1 CUDA基本结构
+[[Parallel Programming in CUDA C]]
+[[CUDA Programming Model]]
+
 - cudaMalloc 申请设备内存
 - cudaFree 释放设备内存
 - cudaMemcpy 数据拷贝
 - CUDA程序标准步骤：拷贝数据到GPU、GPU上计算、拷贝数据到CPU
 - 在GPU上启动线程，通过内置变量进行线程索引，然后进行计算
 
-## 3 线程协作
-### 3.1 进程与线程
-- [进程与线程](https://zhuanlan.zhihu.com/p/258049386)
-- N个线程块，每个线程块1个线程
-- 一个线程块，包含N个线程
-- 资源受限情况下如何调用，借鉴CPU的思路
-- 归约运算
+### 2.2 线程协作
+[[Thread Cooperation]]
 
+### 2.3 CUDA events
+[[Constant Memory and Events]]
+### 2.4 CUDA内存模型
+#### 2.4.1 Global memory
+#### 2.4.2 Shared memory
 
-任务：
-CPU多核并行计算向量加和
-GPU计算向量加和，多线程块单线程，单线程块多线程，多线程块多线程，资源受限情况
+#### 2.4.3 Constant memory
+[[Constant Memory and Events]]
+#### 2.4.4 Register memory
+#### 2.4.5 Local memory
+#### 2.4.6 Texture memory
 
+## 3 CUDA进阶
+### 3.1 Atomics
+### 3.2 Streams
 
-## 4 贴图
-## 5 光线追踪
-## 6 项目实践
+### 3.3 Multiple GPUs
+### 3.4 CUDA Libraries
+
+## 4 Projects
 - 搞一些物理渲染项目, 用CUDA进行加速, MPM, FPM, 粒子等等
 - 复现物理渲染算法, CUDA加速
 - [CUDA矩阵运算](https://zhuanlan.zhihu.com/p/573271688)
-- 
+### 4.1 Julia Set
+[[Julia集合]]
+### 4.2 Ray Tracing
+### 4.3 Matrix Class
