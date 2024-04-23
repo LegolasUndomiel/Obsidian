@@ -23,4 +23,4 @@
 - [OpenMP并行开发（C++）](https://zhuanlan.zhihu.com/p/51173703)
 - [多线程使用1--#pragma omp parallel for](https://blog.csdn.net/weixin_44210987/article/details/112388379)
 - [OpenMP并行编程指令详解](https://zhuanlan.zhihu.com/p/688331683)
-- 
+- [C++并行编程探讨分析](https://www.cnblogs.com/carsonzhu/p/17131175.html)
