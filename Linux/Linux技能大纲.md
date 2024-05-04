@@ -13,13 +13,16 @@
 
 ## 7 LaTeX
 
-## 8 Zotero
+## 8 梯子
+- 如果机场链接在Android端可以使用，在电脑PC端无法使用，有可能是电脑系统时间的问题，同步一下电脑时间即可
+
+## 9 Zotero
 
 
-## 9 Terminal
+## 10 Terminal
 - [Fish vs. Zsh vs. Bash以及为什么要改用Fish](https://zhuanlan.zhihu.com/p/152460193)
-## 10 makefile
-## 11 cmake
+## 11 makefile
+## 12 cmake
 
-## 12 Ubuntu安装
+## 13 Ubuntu安装
 [kde下安装搜狗输入法](https://zhuanlan.zhihu.com/p/278270270)
