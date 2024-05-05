@@ -50,3 +50,5 @@
 [[Julia集合]]
 ### 4.2 Ray Tracing
 ### 4.3 Matrix Class
+
+- [cuda核函数传入__device__函数指针的例子](https://blog.csdn.net/qq_39148922/article/details/118584059)
