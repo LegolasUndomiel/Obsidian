@@ -35,6 +35,8 @@ clang-format --style=llvm --dump-config > .clang-format
 wezterm下无法用xmake编译cuda项目，在Windows Terminal或者Visual Studio Code里面可以编译
 
 推测是wezterm为了ssh到多个机器而设计的，到不同的主机可以加载不同的系统环境配置，找到合适的方法，配置好相关环境才可以使用，功能更强大，配置更麻烦
+
+换了台机器就可以，不清楚是什么原因
 ## 12 makefile
 ## 13 cmake
 

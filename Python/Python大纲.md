@@ -10,3 +10,11 @@
 ### 2.5 自动按照环境
 ## 3 Matplotlib
 ## 4 ManimCL
+## 5 自动化测试
+- pytest自动化测试框架
+- allure生成报告
+
+```bash
+# 生成junit报告，和CI/CD工具联合使用
+pytest test.py --junit=./report.xml
+```
