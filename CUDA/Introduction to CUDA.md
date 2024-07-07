@@ -23,3 +23,16 @@ gpu早期用于图形处理，2D显示加速器卡提供基于硬件的位图运
 - CUDA架构：统一的着色器流水线、支持浮点运算、访问共享内存
 
 CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
+
+## 5 名词索引
+- CPU时钟频率
+- Multicore Revolution
+- Graphics Processing Unit
+- 位图运算
+- 3D图形
+- OpenGL
+- Graphics Pipeline
+- 图形硬件可编程功能
+  - Vertex Shading Stage
+  - Pixel Shading Stage
+- 
