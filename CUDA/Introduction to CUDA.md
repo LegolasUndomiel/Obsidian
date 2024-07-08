@@ -70,5 +70,24 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 	- cudaSetDevice
 	- Scalable Link Interface, SLI
 - 线程格(Grid)
+	- gridIdx
+	- gridDim
 - 线程块(Block)
-- 
+	- blockIdx
+	- blockDim
+	- 硬件限制
+- 线程(Thread)
+	- threadIdx
+	- 硬件限制 maxThreadsPerBlock
+- 软件并行化过程 与 硬件实际执行 解耦
+- CPU线程管理和调度
+- 输出缓冲区
+- 共享内存
+	- 线程通信协作
+	- “高速缓存”
+	- 线程同步
+	- Race Condition
+- volatile类型变量(C/C++)
+- 线程同步
+	- 线程块中线程同步 $__syncthreads$
+	- 
