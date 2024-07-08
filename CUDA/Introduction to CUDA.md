@@ -30,9 +30,45 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 - Graphics Processing Unit
 - 位图运算
 - 3D图形
-- OpenGL
-- Graphics Pipeline
+- OpenGL Graphics Pipeline
+- DirectX
 - 图形硬件可编程功能
-  - Vertex Shading Stage
-  - Pixel Shading Stage
+	- Vertex Shading Stage
+	- Pixel Shading Stage
+	- Vertex Shader
+	- Pixel Shader
+	- 纹理坐标
+	- 渲染
+	- 计算吞吐量
+	- Shading Language
+		- GLSL(OpenGL)
+		- HLSL(DirectX)
+- CUDA
+	- 着色器流水线
+	- Arithmetic Logic Unit, ALU
+	- 共享内存，任意读写内存，访问程序管理的缓存
+- Host 默认编译器
+- Device CUDA编译器
+- 核函数(Kernel)
+- Runtime
+- 分配/释放内存
+	- cudaMalloc
+	- cudaFree
+	- malloc
+	- free
+- 访问内存
+	- cudaMemcpy
+	- memcpy
+	- cudaMemcpyDeviceToHost
+	- cudaMemcpyHostToDevice
+	- cudaMemcpyDeviceToDevice
+- CUDA设备
+	- cudaGetDeviceCount 数量查询
+	- cudaDeviceProp 结构体
+	- cudaGetDeviceProperties
+	- cudaChooseDevice
+	- cudaSetDevice
+	- Scalable Link Interface, SLI
+- 线程格(Grid)
+- 线程块(Block)
 - 
