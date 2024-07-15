@@ -90,4 +90,39 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 - volatile类型变量(C/C++)
 - 线程同步
 	- 线程块中线程同步 $__syncthreads$
-	- 
+	- 确保每个线程执行指令后才能执行后面的语句
+- 归约(Reduction)
+	- 利用共享内存，先在线程块内运算，再得出最终结果
+- CUDA QNX 嵌入式操作系统 自动驾驶
+- Thread Divergence 线程发散 部分线程执行命令
+- 常量内存 Constant Memory
+- 内存带宽
+- 内存通信量
+- 光栅化 Rasterization
+- 光线追踪
+- Warp 线程束
+	- 步调一致 Lockstep
+	- 广播机制
+- 缓存
+- event API
+	- 函数计时
+- Texture Memory 纹理内存
+	- 只读类型
+	- 缓存在芯片上
+	- Spatial Locality 空间局部性
+	- 绑定纹理到内存缓冲区
+	- 清除纹理绑定
+	- text1Dfetch
+	- tex2D
+	- 二维纹理
+	- 纹理采样器
+- 通用计算 和 渲染模式互操作
+	- 渲染依赖于计算结果
+	- 渲染帧上执行图像处理
+- OpenGL交互
+	- 共享数据缓冲区
+	- OpenGL缓冲区-注册CUDA共享
+	- 数据不需要经过CPU
+- cudaChooseDevice
+- cudaGLSetGLDevice
+- 
