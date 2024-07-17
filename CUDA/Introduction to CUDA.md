@@ -125,4 +125,11 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 	- 数据不需要经过CPU
 - cudaChooseDevice
 - cudaGLSetGLDevice
-- 
+- 原子操作
+	- 数千个线程访问少量内存位置，会发生大量竞争，相同位置访问串行化，导致效率下降
+	- atomicAdd
+- -arch=sm_xx编译选项 计算功能集版本支持的编译优化
+- 并行性
+	- 数据并行性
+	- 任务并行性 task parallelism
+- stream
