@@ -2,8 +2,11 @@
 
 ## 2 OpenGL
 [[OpenGL大纲]]
+[[Cherno's OpenGL]]
+## 3 PBR
+[[Phys-sim-book]]
 
-## 3 名词索引
+## 4 名词索引
 - 状态机
 - context 上下文
 - shader着色器

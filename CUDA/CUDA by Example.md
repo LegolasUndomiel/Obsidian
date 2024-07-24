@@ -1,4 +1,3 @@
-> CUDA by Example前三章
 ## 1 性能提升
 早期，处理器性能提升靠提高单个处理器的时钟频率，从MHz提升到GHz，性能提升1000倍，到GHz时代，功耗发热限制了性能进一步提升
 
@@ -133,3 +132,21 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 	- 数据并行性
 	- 任务并行性 task parallelism
 - stream
+	- 设备叠加 device overlap
+	- 操作队列
+	- cudaMemcpyAsync
+	- cudaStreamSynchronize 同步流
+	- 宽度优先
+	- 内存拷贝引擎
+	- 核函数执行引擎
+- 页锁定
+- cudaHostAlloc 主机内存分配
+	- 内存驻留物理内存中，os不会对内存分页并交换到磁盘上
+	- 内存不被重定位
+	- 直接内存访问
+- 虚拟内存
+- 流编程模式
+- 多GPU
+	- 零拷贝内存 Zero-Copy Memory
+	- 可移动的固定内存 Portable Pinned Memory
+	- 多GPU协作、共享内存等

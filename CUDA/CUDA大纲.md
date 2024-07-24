@@ -1,5 +1,5 @@
 ## 1 CUDA介绍
-[[Introduction to CUDA]]
+[[CUDA by Example]]
 [[基于CUDA的异构并行计算]]
 
 ### 1.1 并行计算
