@@ -11,3 +11,9 @@
 	- backward euler
 	- implicit midpoint method
 	- leapfrog method
+
+## 3 数值分析
+- 微分方程数值解
+	- 前向欧拉
+	- 后向欧拉
+	- 辛欧拉

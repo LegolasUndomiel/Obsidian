@@ -88,7 +88,7 @@ CUDA使得人们不再需要把通用计算问题伪装成图形计算问题
 	- Race Condition
 - volatile类型变量(C/C++)
 - 线程同步
-	- 线程块中线程同步 $__syncthreads$
+	- 线程块中线程同步 $\_\_syncthreads$
 	- 确保每个线程执行指令后才能执行后面的语句
 - 归约(Reduction)
 	- 利用共享内存，先在线程块内运算，再得出最终结果
