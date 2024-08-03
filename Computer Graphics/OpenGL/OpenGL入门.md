@@ -5,11 +5,16 @@ tags:
   - 计算机图形学
 ---
 ## 1 视频笔记
+
+- [00:25](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=25.168755#t=25.17) ![[【双语】【TheCherno】OpenGLPT25.169S.jpeg|【双语】【TheCherno】OpenGL - 00:25|800]] 
 - [00:31](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=31.150748#t=31.15) ![[【双语】【TheCherno】OpenGLPT31.151S.webp|【双语】【TheCherno】OpenGL - 00:31|800]]
 - [00:38](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=38.941803#t=38.94) ![[【双语】【TheCherno】OpenGLPT38.942S.webp|【双语】【TheCherno】OpenGL - 00:38|800]]
 - [00:44](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=44.719117#t=44.72) ![[【双语】【TheCherno】OpenGLPT44.719S.webp|【双语】【TheCherno】OpenGL - 00:44|800]]
+- [00:48](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=48.717491#t=48.72) ![[【双语】【TheCherno】OpenGLPT48.717S.jpeg|【双语】【TheCherno】OpenGL - 00:48|800]] 
 - [01:01](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=61.835039#t=01:01.84) ![[【双语】【TheCherno】OpenGLPT1M1.835S.webp|【双语】【TheCherno】OpenGL - 01:01|800]]
+- [01:07](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=67.44719#t=01:07.45) ![[【双语】【TheCherno】OpenGLPT1M7.447S.jpeg|【双语】【TheCherno】OpenGL - 01:07|800]] 
 - [01:10](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=70.889801#t=01:10.89) ![[【双语】【TheCherno】OpenGLPT1M10.89S.webp|【双语】【TheCherno】OpenGL - 01:10|800]]
+- [01:17](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=77.562939#t=01:17.56) ![[【双语】【TheCherno】OpenGLPT1M17.563S.jpeg|【双语】【TheCherno】OpenGL - 01:17|800]] 
 - [01:33](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=93.759253#t=01:33.76) ![[【双语】【TheCherno】OpenGLPT1M33.759S.webp|【双语】【TheCherno】OpenGL - 01:33|800]]
 - [01:43](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=103.573559#t=01:43.57) ![[【双语】【TheCherno】OpenGLPT1M43.574S.webp|【双语】【TheCherno】OpenGL - 01:43|800]]
 - [01:46](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=106.187441#t=01:46.19) ![[【双语】【TheCherno】OpenGLPT1M46.187S.webp|【双语】【TheCherno】OpenGL - 01:46|800]]
