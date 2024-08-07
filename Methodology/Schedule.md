@@ -121,5 +121,11 @@
 - [ ] 非协调单元
 - [ ] 广义变分原理
 - [ ] 混合模式(mixed form)
-
-
+- [ ] 共旋
+- [ ] 欧拉梁
+- [ ] 瑞利梁
+- [ ] 铁木辛柯梁
+- [ ] 西蒙梁
+- [ ] assumed strain method
+- [ ] Hu-Washizu principle
+- [ ] B-bar procedure

@@ -56,3 +56,7 @@
 ## 8 边界条件
 
 ## 9 初始条件
+# 参考资料
+## 1 程序设计
+-  An object-oriented programming of an explicit dynamics code: application to impact simulation
+- A unified object-oriented framework for CPU+GPU explicit hyperbolic solvers
