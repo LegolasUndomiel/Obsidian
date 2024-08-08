@@ -3,20 +3,20 @@
 ```cpp
 #pragma omp 指令 [子句[子句]…]
 ```
-## 1 常用命令
-### 1.1 并行
-### 1.2 Reduction
-### 1.3 原子操作
+# 1 常用命令
+## 1.1 并行
+## 1.2 Reduction
+## 1.3 原子操作
 
 
-## 2 概念术语
+# 2 概念术语
 
 - Race condition
 - Reduction
 - 互斥锁
 - 事件同步
 
-## 3 参考文献
+# 2.1 参考文献
 - [OpenMP(1)：parallel，for，sections指令的用法](https://blog.csdn.net/qq_40765537/article/details/105962912)
 - [OpenMP(4)：一些函数操作](https://blog.csdn.net/qq_40765537/article/details/106035142)
 - [OpenMP入门篇-知乎](https://zhuanlan.zhihu.com/p/608946001)

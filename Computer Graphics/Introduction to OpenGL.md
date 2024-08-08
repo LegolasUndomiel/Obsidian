@@ -1,31 +1,31 @@
-## 1 核心模式与立即渲染模式
-### 1.1 立即渲染模式(Immediate mode)
+# 1 核心模式与立即渲染模式
+## 1.1 立即渲染模式(Immediate mode)
 - 早期的OpenGL使用立即渲染模式（Immediate mode，也就是固定渲染管线）
 - OpenGL的大多数功能都被库隐藏起来，开发者很少有控制OpenGL如何进行计算的自由。
 - 容易使用和理解，但是效率太低。
 - 立即渲染模式从OpenGL**实际**运作中抽象掉了很多细节，因此它在易于学习的同时，也很难让人去把握OpenGL具体是如何运作的。
 - 因此从OpenGL3.2开始，规范文档开始废弃立即渲染模式，并鼓励开发者在OpenGL的核心模式下进行开发，这个分支的规范完全移除了旧的特性。
-### 1.2 核心模式(Core-profile)
+## 1.2 核心模式(Core-profile)
 - 随着时间推移，规范越来越灵活，开发者对绘图细节有了更多的掌控，开发者迫切希望能有更多的灵活性。
 - 当使用OpenGL的核心模式(Core-profile)时，OpenGL迫使我们使用现代的函数。当我们试图使用一个已废弃的函数时，OpenGL会抛出一个错误并终止绘图。
 - 现代函数的优势是更高的灵活性和效率，然而也更难于学习。
 - 现代函数要求使用者真正理解OpenGL和图形编程，它有一些难度，然而提供了更多的灵活性，更高的效率，更重要的是可以更深入的理解图形编程。
-## 2 状态机
+# 2 状态机
 
 OpenGL本质上是一个巨大的状态机(State Machine)：一系列的变量描述OpenGL此刻应当如何运行。OpenGL的状态通常被称为OpenGL上下文(Context)。我们通常使用如下途径去更改OpenGL状态：设置选项，操作缓冲。最后，我们使用当前OpenGL上下文来渲染。
 
 当使用OpenGL的时候，我们会遇到一些状态设置函数(State-changing Function)，这类函数将会改变上下文。以及状态使用函数(State-using Function)，这类函数会根据当前OpenGL的状态执行一些操作。
 
-## 3 GLFW
+# 3 GLFW
 
 GLFW是一个专门针对OpenGL的C语言库，它提供了一些渲染物体所需的最低限度的接口。它允许用户创建OpenGL上下文、定义窗口参数以及处理用户输入。
 
-## 4 GLAD
+# 4 GLAD
 
 因为OpenGL只是一个标准/规范，具体的实现是由驱动开发商针对特定显卡实现的。由于OpenGL驱动版本众多，它大多数函数的位置都无法在编译时确定下来，需要在运行时查询。所以任务就落在了开发者身上，开发者需要在运行时获取函数地址并将其保存在一个函数指针中供以后使用。取得地址的方法因平台而异，有些库能简化此过程，其中**GLAD**是目前最新，也是最流行的库。
  
-### 4.1 环境配置
-#### 4.1.1 Ubuntu下配置OpenGL
+## 4.1 环境配置
+### 4.1.1 Ubuntu下配置OpenGL
 - [Ubuntu20.04搭建OpenGL环境(glfw+glad)](https://blog.csdn.net/qq_40342400/article/details/132395076)
 - [基于Ubuntu搭建OpenGL开发环境](https://www.cnblogs.com/jiujiubashiyi/p/16429717.html)
-#### 4.1.2 Windows下配置OpenGL
+### 4.1.2 Windows下配置OpenGL

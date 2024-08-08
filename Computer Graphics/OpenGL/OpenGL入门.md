@@ -4,7 +4,7 @@ tags:
   - OpenGL
   - 计算机图形学
 ---
-## 1 视频笔记
+# 1 视频笔记
 
 - [00:25](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=25.168755#t=25.17) ![[【双语】【TheCherno】OpenGLPT25.169S.jpeg|【双语】【TheCherno】OpenGL - 00:25|800]] 
 - [00:31](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=31.150748#t=31.15) ![[【双语】【TheCherno】OpenGLPT31.151S.webp|【双语】【TheCherno】OpenGL - 00:31|800]]
@@ -30,8 +30,8 @@ tags:
 - [10:52](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=652.475678#t=10:52.48) ![[【双语】【TheCherno】OpenGLPT10M52.476S.webp|【双语】【TheCherno】OpenGL - 10:52|800]]
 - [11:08](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=668.341465#t=11:08.34) ![[【双语】【TheCherno】OpenGLPT11M8.341S.webp|【双语】【TheCherno】OpenGL - 11:08|800]]
 - [14:22](https://www.bilibili.com/video/BV1Ni4y1o7Au?t=862.096108#t=14:22.10) ![[【双语】【TheCherno】OpenGLPT14M22.096S.webp|【双语】【TheCherno】OpenGL - 14:22|800]]
-## 2 笔记整理
-### 2.1 术语
+# 2 笔记整理
+## 2.1 术语
 
 | 编号  | 缩写  | 全称                                | 备注  |
 | --- | --- | --------------------------------- | --- |
@@ -40,10 +40,10 @@ tags:
 | 3   | /   | specification                     | 规范  |
 |     |     |                                   |     |
 
-### 2.2 内容
+## 2.2 内容
 
-#### 2.2.1 OpenGL是什么
+### 2.2.1 OpenGL是什么
 - API
 - 规范
-#### 2.2.2 类似物对比
-#### 2.2.3 Shader
+### 2.2.2 类似物对比
+### 2.2.3 Shader

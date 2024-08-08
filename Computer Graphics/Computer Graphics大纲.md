@@ -1,12 +1,12 @@
-## 1 Introduction
+# 1 Introduction
 
-## 2 OpenGL
+# 2 OpenGL
 [[OpenGL大纲]]
 [[Cherno's OpenGL]]
-## 3 PBR
+# 3 PBR
 [[Phys-sim-book]]
 
-## 4 名词索引
+# 4 名词索引
 - 状态机
 - context 上下文
 - shader着色器
@@ -22,4 +22,3 @@
 - physically based rendering(PBR)
 - 光照
 - 离线渲染 & 实时渲染
-- 
