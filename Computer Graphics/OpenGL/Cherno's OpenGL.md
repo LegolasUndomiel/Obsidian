@@ -6,8 +6,15 @@
 5. [[顶点属性和内存布局]]
 
 
+# 2 术语
+| 编号  | 缩写  | 全称                                | 备注  |
+| --- | --- | --------------------------------- | --- |
+| 1   | API | application programming interface |     |
+| 2   | GPU | graphics processing unit          |     |
+| 3   | /   | specification                     | 规范  |
+|     |     |                                   |     |
 
-# 2 名词索引
+# 3 名词索引
 - vertex array object, VAO
 - vertex buffer object, VBO
 - 纹理贴图 纹理坐标
@@ -16,8 +23,8 @@
 - 旋转、缩放、平移矩阵
 - 局部空间 世界空间 观察空间 裁剪空间 屏幕空间
 
-# 3 Projects
-## 3.1 Mandelbrot/Julia集合
+# 4 Projects
+## 4.1 Mandelbrot/Julia集合
 - OpenGL
 	- 基础知识
 	- shader
@@ -31,16 +38,16 @@
 	- implot绘图
 - WebGPU
 - WebAssembly
-## 3.2 光线追踪
+## 4.2 光线追踪
 - OpenGL
 - CUDA
-## 3.3 圆盘小球
-## 3.4 Minecraft
-## 3.5 全局光照
-## 3.6 接触算法
+## 4.3 圆盘小球
+## 4.4 Minecraft
+## 4.5 全局光照
+## 4.6 接触算法
 - 四叉树
 - 八叉树
 - IPC
-## 3.7 布料仿真
-## 3.8 MPM物质点法
+## 4.7 布料仿真
+## 4.8 MPM物质点法
 - 太极
