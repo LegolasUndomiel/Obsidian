@@ -4,7 +4,7 @@ tags:
   - OpenGL
   - 计算机图形学
 ---
-
+# 视频笔记
 - [00:52](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=52.487437#t=52.49) ![[S03.使用现代OpenGLPT52.487S.jpeg|S03.使用现代OpenGL - 00:52|800]] Direct
 - [02:03](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=123.165498#t=02:03.17) ![[S03.使用现代OpenGLPT2M3.165S.jpeg|S03.使用现代OpenGL - 02:03|800]] 
 - [02:14](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=134.379002#t=02:14.38) ![[S03.使用现代OpenGLPT2M14.379S.jpeg|S03.使用现代OpenGL - 02:14|800]] OpenGL由显卡制造商实现
