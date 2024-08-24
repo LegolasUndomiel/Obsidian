@@ -101,8 +101,8 @@ $$
 $$
 J = 
 \begin{bmatrix}
-	\frac{\partial x}{\partial\xi} & \frac{\partial y}{\partial\xi}\\
-	\frac{\partial x}{\partial\eta} & \frac{\partial y}{\partial\eta}
+	\frac{\partial x}{\partial\xi} & \frac{\partial x}{\partial\eta}\\
+	\frac{\partial y}{\partial\xi} & \frac{\partial y}{\partial\eta}
 \end{bmatrix}
 $$
 由于$(x,y)$可表示为：
@@ -127,7 +127,7 @@ $$
 雅可比矩阵可表示为：
 $$
 \begin{align}
-	J &= 
+	J^{T} &= 
 	\begin{bmatrix}
 		\frac{\partial N_1}{\partial\xi} & \frac{\partial N_2}{\partial\xi} & \frac{\partial N_3}{\partial\xi}\\
 		\frac{\partial N_1}{\partial\eta} & \frac{\partial N_2}{\partial\eta} & \frac{\partial N_3}{\partial\eta}
@@ -159,7 +159,7 @@ $$
 \begin{bmatrix}
 	\frac{\partial N_1}{\partial x} & \frac{\partial N_2}{\partial x} & \frac{\partial N_3}{\partial x}\\
 	\frac{\partial N_1}{\partial y} & \frac{\partial N_2}{\partial y} & \frac{\partial N_3}{\partial y}
-\end{bmatrix}=J^{-1}
+\end{bmatrix}=J^{-T}
 \begin{bmatrix}
 	\frac{\partial N_1}{\partial\xi} & \frac{\partial N_2}{\partial\xi} & \frac{\partial N_3}{\partial\xi}\\
 	\frac{\partial N_1}{\partial\eta} & \frac{\partial N_2}{\partial\eta} & \frac{\partial N_3}{\partial\eta}
@@ -193,7 +193,7 @@ $$
 雅可比矩阵：
 $$
 \begin{align}
-	J &= 
+	J^{T} &= 
 	\begin{bmatrix}
 		\frac{\partial x}{\partial\xi} & \frac{\partial y}{\partial\xi}\\
 		\frac{\partial x}{\partial\eta} & \frac{\partial y}{\partial\eta}
