@@ -12,7 +12,7 @@
 | 1   | API | application programming interface |     |
 | 2   | GPU | graphics processing unit          |     |
 | 3   | /   | specification                     | 规范  |
-|     |     |                                   |     |
+| 4   | EDI |                                   |     |
 
 # 3 名词索引
 - vertex array object, VAO
