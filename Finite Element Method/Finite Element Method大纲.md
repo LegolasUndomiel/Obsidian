@@ -156,3 +156,5 @@
 ## 11.1 程序设计
 -  An object-oriented programming of an explicit dynamics code: application to impact simulation
 - A unified object-oriented framework for CPU+GPU explicit hyperbolic solvers
+## 11.2 开源项目
+- [FEBio](https://github.com/febiosoftware/FEBio)

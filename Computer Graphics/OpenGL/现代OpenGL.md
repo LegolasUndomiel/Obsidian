@@ -23,8 +23,12 @@ tags:
 - [04:16](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=256.130852#t=04:16.13) ![[S03.使用现代OpenGLPT4M16.131S.jpeg|S03.使用现代OpenGL - 04:16|800]] 
 - [04:17](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=257.691913#t=04:17.69) ![[S03.使用现代OpenGLPT4M17.692S.jpeg|S03.使用现代OpenGL - 04:17|800]] 
 - [06:57](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=417.506966#t=06:57.51) ![[S03.使用现代OpenGLPT6M57.507S.jpeg|S03.使用现代OpenGL - 06:57|800]] 
-- [07:02](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=422.574107#t=07:02.57) ![[S03.使用现代OpenGLPT7M2.574S.jpeg|S03.使用现代OpenGL - 07:02|800]] 
-- [07:07](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=427.249849#t=07:07.25) ![[S03.使用现代OpenGLPT7M7.25S.jpeg|S03.使用现代OpenGL - 07:07|800]] GLAD也是同样的使用方法
+- [07:02](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=422.574107#t=07:02.57) ![[S03.使用现代OpenGLPT7M2.574S.jpeg|S03.使用现代OpenGL - 07:02|800]]
+- [07:07](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=427.249849#t=07:07.25) ![[S03.使用现代OpenGLPT7M7.25S.jpeg|S03.使用现代OpenGL - 07:07|800]] GLAD也是同样的使用方法 
+- [07:12](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=432.245265#t=07:12.25) ![[S03.使用现代OpenGLPT7M12.245S.jpeg|S03.使用现代OpenGL - 07:12|800]] 
+- [07:16](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=436.754184#t=07:16.75) ![[S03.使用现代OpenGLPT7M16.754S.jpeg|S03.使用现代OpenGL - 07:16|800]] 
+- [15:14](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=914.252032#t=15:14.25) ![[S03.使用现代OpenGLPT15M14.252S.jpeg|S03.使用现代OpenGL - 15:14|800]] 
+- [15:26](https://www.bilibili.com/video/BV1Ni4y1o7Au?p=3&t=926.173356#t=15:26.17) ![[S03.使用现代OpenGLPT15M26.173S.jpeg|S03.使用现代OpenGL - 15:26|800]] GLAD也需要在一个有效context后面
 # 2 笔记整理
 ## 2.1 笔记摘要
 - GLEW链接使用
