@@ -18,3 +18,6 @@
 # 生成junit报告，和CI/CD工具联合使用
 pytest test.py --junit=./report.xml
 ```
+
+# 6 pybind11
+将C/C++代码封装成python可调用的模块，在python中调用C++类，计算速度与可执行文件几乎没有差别
