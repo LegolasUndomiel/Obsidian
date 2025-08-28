@@ -1,6 +1,6 @@
 # 1 参考资料
 [动手学深度学习](https://zh.d2l.ai)
-[ollama](https://github.com/ollama/ollama)
+[机器学习入门基础](https://blog.csdn.net/m0_65121454/article/details/128178708)
 
 # 2 名词索引
 - 监督学习

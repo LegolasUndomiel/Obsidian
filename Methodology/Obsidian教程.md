@@ -20,4 +20,8 @@
 	- 索引
 	- 卡片
 	- 清单日记
-
+# 3 插件
+- Advanced Tables
+- Media Extended
+- Number Headings
+- Style Settings
