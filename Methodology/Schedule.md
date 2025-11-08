@@ -1,57 +1,49 @@
-> stay hungry, stay foolish, stay humble
+> Stay hungry, stay foolish.
 > If you live each day as if it was your last, someday you'll most certainly be right.
-> My time is limited, so don't waste it living someone else's life.
-> 
-# 1 日程安排
-| 编号  | 任务            | 进度  | 备注                                               |
-| --- | ------------- | --- | ------------------------------------------------ |
-| 1   | OpenGL        |     | [LearnOpenGL](https://learnopengl-cn.github.io/) |
-| 2   | 计算机图形学        |     | GAMES101                                         |
-| 3   | 计算机图形学        |     | Ray Tracing                                      |
-| 4   | CUDA          |     |                                                  |
-| 5   | Blender       |     |                                                  |
-| 6   | Unity         |     |                                                  |
-| 7   | Unreal Engine |     |                                                  |
-| 8   | Houdini       |     |                                                  |
-## 1.1 CUDA
-| 编号  | 内容                                |      备注       |
-| --- | --------------------------------- | :-----------: |
-| 1   | CUDA by example                   | 建立框架，了解CUDA内容 |
-| 2   | Programming in parallel with CUDA |    实践CUDA     |
-## 1.2 Computer Graphics
-| 编号  | 内容                | 备注                                                   |
-| --- | ----------------- | ---------------------------------------------------- |
-| 1   | OpenGL            | 图形API，学习后可以实现CG的内容                                   |
-| 2   | Computer Graphics | Ray tracing、PBR、全局光照                                 |
-| 3   | TA                |                                                      |
-| 4   | Phys-Sim-Book     | 粒子、刚体、变形体、流体、接触、雪、弹塑、超弹                              |
-| 5   | Minecraft         | 实战训练                                                 |
-| 6   | 软件操作              | Unity, Unreal, blender, houdini 主要用于展示自己实现的效果，适时学习即可 |
-## 1.3 Machine Learning
-| 编号  | 内容   |      备注      |
-| --- | ---- | :----------: |
-| 1   | 机器学习 |  周志华西瓜书建立框架  |
-| 2   | 深度学习 | 动手学深度学习，实战训练 |
-| 3   | PINN | 机器学习方法解偏微分方程 |
-## 1.4 基础知识
-| 编号  | 内容    |       备注       |
-| --- | ----- | :------------: |
-| 1   | 数值分析  | 根据其他内容进展适时补充学习 |
-| 2   | 优化理论  |                |
-| 3   | 数据结构  |                |
-| 4   | 算法    |                |
-| 5   | CSAPP |                |
+> Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+> You are already naked. There is no reason not to follow your heart.
+> Your time is limited, so don't waste it living someone else's life.
+> Stay humble.
 
-# 2 Coding
+1. 具身智能仿真模拟
+	- 机器人运动学与动力学
+	- `Pinocchio`力学库
+	- `Newton`
+	- `Isaac Sim`
+	- `MuJoCo`
+2. `CUDA`加速
+	- `CUDA-MODE`
 
-| 编号  | 学习计划                  | 预订日期 | 备注                   |
-| --- | --------------------- | ---- | -------------------- |
-| 1   | C语言                   | 1个月  | 指针                   |
-| 2   | 数据结构                  | 4个月  |                      |
-| 3   | CSAPP                 | 4个月  |                      |
-| 4   | GAMES101              | 3个月  | 入门图形学                |
-| 5   | CPU优化                 | 4个月  | MPI,OpenMP           |
-| 6   | GPU优化                 | 4个月  | CUDA,OneAPI, OpenACC |
-| 7   | 复现论文                  |      | 长期计划,可在任务4结束后尝试      |
-| 8   | Fragile Points Method |      | 长期计划,可在任务2结束后尝试      |
+# 1 AI
+- [[Machine Learning学习计划]]
+- [[Deep Learning学习计划]]
+- [[Reinforcement Learning学习计划]]
 
+# 2 计算机基础
+- [[CUDA学习计划]]
+- [[DSA学习计划]]
+- [[C++学习计划]]
+- [[CSAPP学习计划]]
+- [[Triton学习计划]]
+
+# 3 机器人
+- [[机器人运动学与动力学]]
+- [[Pinocchio学习计划]]
+- [[Newton and Warp学习计划]]
+- `MuJoCo`
+- `Isaac Sim`
+- `ROS2`
+- 机器人控制
+
+# 4 计算机图形学
+- [[Games103学习计划]]
+- `Taichi`
+- `OpenGL`
+- 接触碰撞问题
+	- 碰撞检测：八叉树、`BVH`、`AABB`、`OBB`、`GJK`、`SDF`
+	- 接触力计算：罚函数法、拉格朗日乘子法、`IPC`
+- Ray Tracing
+
+# 5 数学基础
+- [[Numerical Analysis学习计划]]
+- [[Optimization学习计划]]
