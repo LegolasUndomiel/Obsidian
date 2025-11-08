@@ -1,3 +1,7 @@
+> stay hungry, stay foolish, stay humble
+> If you live each day as if it was your last, someday you'll most certainly be right.
+> My time is limited, so don't waste it living someone else's life.
+> 
 # 1 日程安排
 | 编号  | 任务            | 进度  | 备注                                               |
 | --- | ------------- | --- | ------------------------------------------------ |
