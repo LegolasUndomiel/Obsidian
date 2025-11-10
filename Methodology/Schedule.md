@@ -5,12 +5,22 @@
 > Your time is limited, so don't waste it living someone else's life.
 > Stay humble.
 
+22:30-06:00
+06:00-07:00
+07:15-08:15
+08:35-09:35
+
+19:00-20:00
+20:10-21:10
+21:20-22:20
+
 1. 具身智能仿真模拟
 	- 机器人运动学与动力学
 	- `Pinocchio`力学库
 	- `Newton`
 	- `Isaac Sim`
 	- `MuJoCo`
+	- 渲染
 2. `CUDA`加速
 	- `CUDA-MODE`
 
