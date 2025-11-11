@@ -1,0 +1,8 @@
+- [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)
+	- [Embodied-World-Models-Survey](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
+- [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)
+- [A Survey of Embodied World Models](https://fi.ee.tsinghua.edu.cn/public/publications/0940dda4-af15-11f0-9d60-0242ac120002.pdf)
+	- [Awesome-Embodied-World-Model](https://github.com/tsinghua-fib-lab/Awesome-Embodied-World-Model)
+- [A Comprehensive Survey on World Models for Embodied AI](https://www.arxiv.org/abs/2510.16732)
+	- [Awesome World Models](https://github.com/Li-Zn-H/AwesomeWorldModels)
+	- [open 3d engine](https://github.com/o3de/o3de)

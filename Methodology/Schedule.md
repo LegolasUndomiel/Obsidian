@@ -5,14 +5,13 @@
 > Your time is limited, so don't waste it living someone else's life.
 > Stay humble.
 
-22:30-06:00
-06:00-07:00
-07:15-08:15
-08:35-09:35
-
-19:00-20:00
-20:10-21:10
-21:20-22:20
+- 22:30-06:00
+- 06:00-07:00
+- 07:15-08:15
+- 08:35-09:35
+- 19:00-20:00
+- 20:10-21:10
+- 21:20-22:20
 
 1. 具身智能仿真模拟
 	- 机器人运动学与动力学
@@ -21,8 +20,16 @@
 	- `Isaac Sim`
 	- `MuJoCo`
 	- 渲染
-2. `CUDA`加速
-	- `CUDA-MODE`
+2. 人工智能线
+	- 机器学习
+	- 深度学习
+	- 强化学习
+	- `Pytorch`
+	- `CUDA-MODE`(`Pytorch`算子调优)
+3. 计算机基础线
+	- C++(智能指针、移动语义、右值引用、多线程库、`STL`、类)
+	- DSA
+	- CUDA
 
 # 1 AI
 - [[Machine Learning学习计划]]
@@ -30,9 +37,9 @@
 - [[Reinforcement Learning学习计划]]
 
 # 2 计算机基础
-- [[CUDA学习计划]]
-- [[DSA学习计划]]
 - [[C++学习计划]]
+- [[DSA学习计划]]
+- [[CUDA学习计划]]
 - [[CSAPP学习计划]]
 - [[Triton学习计划]]
 
@@ -41,7 +48,7 @@
 - [[Pinocchio学习计划]]
 - [[Newton and Warp学习计划]]
 - `MuJoCo`
-- `Isaac Sim`
+- [[Isaac Series]]
 - `ROS2`
 - 机器人控制
 

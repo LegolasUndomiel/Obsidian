@@ -1,15 +1,28 @@
-# 1 数据结构与算法
-## 1.1 线性表
-- Vector(动态数组)
-- List
-- Stack
-- Queue
+- 线性数据结构：
+	- vector
+	- list
+	- stack
+	- queue
+	- hash table
+- 非线性数据结构：
+	- tree
+	- heap
+	- graph
 
-## 1.2 树
-- 二叉树
-	- 普通二叉树
-	- 平衡二叉树
-		- `AVL`树
-		- 红黑树
+- [Hello算法](https://www.hello-algo.com/)
+- [学堂在线](https://www.xuetangx.com/)
 
-## 1.3 排序算法
+# 1 Vector
+# 2 List
+# 3 Stack
+# 4 Queue
+# 5 Hash table
+# 6 Tree
+# 7 Heap
+# 8 Graph
+# 9 搜索
+# 10 排序
+# 11 分治
+# 12 回溯
+# 13 动态规划
+# 14 贪心
