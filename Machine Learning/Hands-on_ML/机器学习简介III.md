@@ -1,0 +1,21 @@
+---
+media: https://www.bilibili.com/video/BV1cKS2YFEbC
+---
+
+- [00:08](https://www.bilibili.com/video/BV1cKS2YFEbC?t=8.612962#t=8.61) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT8.613S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 00:08|800]]
+- [01:44](https://www.bilibili.com/video/BV1cKS2YFEbC?t=104.545103#t=01:44.55) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT1M44.545S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 01:44|800]]
+- [04:39](https://www.bilibili.com/video/BV1cKS2YFEbC?t=279.33506#t=04:39.34) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT4M39.335S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 04:39|800]]
+- [11:11](https://www.bilibili.com/video/BV1cKS2YFEbC?t=671.807221#t=11:11.81) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT11M11.807S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 11:11|800]]
+- [14:29](https://www.bilibili.com/video/BV1cKS2YFEbC?t=869.311365#t=14:29.31) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT14M29.311S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 14:29|800]]
+- [18:15](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1095.555788#t=18:15.56) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT18M15.556S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 18:15|800]]
+- [20:13](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1213.012206#t=20:13.01) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT20M13.012S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 20:13|800]]
+- [22:00](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1320.637885#t=22:00.64) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT22M0.638S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 22:00|800]]
+- [27:51](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1671.249068#t=27:51.25) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT27M51.249S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 27:51|800]]
+- [28:01](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1681.256669#t=28:01.26) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT28M1.257S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 28:01|800]]
+- [28:43](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1723.094425#t=28:43.09) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT28M43.094S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 28:43|800]]
+- [28:57](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1737.210946#t=28:57.21) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT28M57.211S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 28:57|800]]
+- [29:05](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1745.392965#t=29:05.39) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT29M5.393S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 29:05|800]]
+- [29:23](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1763.459818#t=29:23.46) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT29M23.46S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 29:23|800]]
+- [30:06](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1806.065276#t=30:06.07) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT30M6.065S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 30:06|800]]
+- [30:12](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1812.571704#t=30:12.57) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT30M12.572S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 30:12|800]]
+- [30:18](https://www.bilibili.com/video/BV1cKS2YFEbC?t=1818.880114#t=30:18.88) ![[上海交大张伟楠机器学习课程第1讲：机器学习简介IIIPT30M18.88S.jpeg|上海交大张伟楠机器学习课程第1讲：机器学习简介III - 30:18|800]]
